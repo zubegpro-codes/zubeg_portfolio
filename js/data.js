@@ -265,7 +265,7 @@ const SITE_DATA = {
   "projects": [
     {
       "title": "Child Dedication Invitation Card",
-      "category": "Mobile App",
+      "category": "Graphics",
       "description": "Design Dedication cards, birthday cards, market flyers and event flyers",
       "image": "Child dadicatipon2.png",
       "technologies": [
@@ -306,7 +306,7 @@ const SITE_DATA = {
         "NumPy"
       ],
       "link": "",
-      "image": "",
+      "image": "attendace taken with proof.png",
       "emoji": "👁️",
       "featured": true
     },
@@ -416,7 +416,7 @@ const SITE_DATA = {
         "SQL"
       ],
       "link": "",
-      "image": "",
+      "image": "mens.png",
       "emoji": "💊",
       "featured": false
     },
@@ -431,7 +431,7 @@ const SITE_DATA = {
         "JavaScript"
       ],
       "link": "https://unique.tryhealth.xyz/",
-      "image": "",
+      "image": "product bragimi.png",
       "emoji": "💚",
       "featured": false
     },
@@ -446,7 +446,7 @@ const SITE_DATA = {
         "JavaScript"
       ],
       "link": "https://zubegpro-codes.github.io/Aicourse/",
-      "image": "",
+      "image": "ai course.png",
       "emoji": "🤖",
       "featured": false
     }
