@@ -307,7 +307,6 @@ const SITE_DATA = {
       ],
       "link": "",
       "image": "attendace taken with proof.png",
-      "emoji": "👁️",
       "featured": true
     },
     {
