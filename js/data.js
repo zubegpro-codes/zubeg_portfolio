@@ -286,11 +286,11 @@ const SITE_DATA = {
         "HTML",
         "CSS",
         "JavaScript",
+        "PHP",
         "Responsive Design"
       ],
       "link": "https://heartandsoulschool.com.ng/",
-      "image": "",
-      "emoji": "🏫",
+      "image": "heatrt and soul.png",
       "featured": true
     },
     {
@@ -385,8 +385,7 @@ const SITE_DATA = {
         "Tkinter"
       ],
       "link": "",
-      "image": "",
-      "emoji": "📧",
+      "image": "mailtool desktop app.png",
       "featured": false
     },
     {
@@ -400,8 +399,7 @@ const SITE_DATA = {
         "Tkinter"
       ],
       "link": "",
-      "image": "",
-      "emoji": "🎬",
+      "image": "VIDEO COMPRESOR.png",
       "featured": false
     },
     {
